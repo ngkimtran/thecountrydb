@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ngkimtran/thecountrydb/static/css/main.9c43da46.chunk.css",
-    "main.js": "/ngkimtran/thecountrydb/static/js/main.eba2ca43.chunk.js",
-    "main.js.map": "/ngkimtran/thecountrydb/static/js/main.eba2ca43.chunk.js.map",
-    "runtime-main.js": "/ngkimtran/thecountrydb/static/js/runtime-main.b8a7178d.js",
-    "runtime-main.js.map": "/ngkimtran/thecountrydb/static/js/runtime-main.b8a7178d.js.map",
-    "static/js/2.dc917f99.chunk.js": "/ngkimtran/thecountrydb/static/js/2.dc917f99.chunk.js",
-    "static/js/2.dc917f99.chunk.js.map": "/ngkimtran/thecountrydb/static/js/2.dc917f99.chunk.js.map",
-    "index.html": "/ngkimtran/thecountrydb/index.html",
-    "static/css/main.9c43da46.chunk.css.map": "/ngkimtran/thecountrydb/static/css/main.9c43da46.chunk.css.map",
-    "static/js/2.dc917f99.chunk.js.LICENSE.txt": "/ngkimtran/thecountrydb/static/js/2.dc917f99.chunk.js.LICENSE.txt"
+    "main.css": "/thecountrydb/static/css/main.9c43da46.chunk.css",
+    "main.js": "/thecountrydb/static/js/main.eba2ca43.chunk.js",
+    "main.js.map": "/thecountrydb/static/js/main.eba2ca43.chunk.js.map",
+    "runtime-main.js": "/thecountrydb/static/js/runtime-main.c32fdbbd.js",
+    "runtime-main.js.map": "/thecountrydb/static/js/runtime-main.c32fdbbd.js.map",
+    "static/js/2.dc917f99.chunk.js": "/thecountrydb/static/js/2.dc917f99.chunk.js",
+    "static/js/2.dc917f99.chunk.js.map": "/thecountrydb/static/js/2.dc917f99.chunk.js.map",
+    "index.html": "/thecountrydb/index.html",
+    "static/css/main.9c43da46.chunk.css.map": "/thecountrydb/static/css/main.9c43da46.chunk.css.map",
+    "static/js/2.dc917f99.chunk.js.LICENSE.txt": "/thecountrydb/static/js/2.dc917f99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8a7178d.js",
+    "static/js/runtime-main.c32fdbbd.js",
     "static/js/2.dc917f99.chunk.js",
     "static/css/main.9c43da46.chunk.css",
     "static/js/main.eba2ca43.chunk.js"
